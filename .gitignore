@@ -1,5 +1,6 @@
 credentials/credentials.json
 credentials/token.json
+credentials/service_account.json
 state.json
 __pycache__/
 .env
